@@ -54,4 +54,4 @@ Certifique-se de ter o **Node.js** e o **Expo Go** instalados no seu celular.
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/batpass-generator.git](https://github.com/seu-usuario/batpass-generator.git)
+   git clone git@github.com:Valverde08/Bat_key_gen.git
